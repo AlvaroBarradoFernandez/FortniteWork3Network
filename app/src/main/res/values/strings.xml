@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ForniteData</string>
+    <string name="search">Search</string>
+    <array name="spinnerItems">
+        <item>pc</item>
+        <item>psn</item>
+        <item>xbl</item>
+    </array>
+</resources>
